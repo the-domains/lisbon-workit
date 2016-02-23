@@ -1,0 +1,28 @@
+name: Lisbon Workit
+favicon: null
+layout_spectrum: 0.09799271309748292
+typography_spectrum: 0.6426278501749039
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6938659867737442
+  lightness: 0.13622048869729042
+  saturation: 0.25400448637083173
+  rhythmicContrast: 0.33983325376175344
+purpose: []
